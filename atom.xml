@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://fox.mofumofu.world/"/>
-  <updated>2019-12-07T09:38:15.950Z</updated>
+  <updated>2019-12-07T16:44:39.279Z</updated>
   <id>https://fox.mofumofu.world/</id>
   
   <author>
@@ -21,18 +21,18 @@
     <link href="https://fox.mofumofu.world/posts/4a17b156/"/>
     <id>https://fox.mofumofu.world/posts/4a17b156/</id>
     <published>2019-11-30T16:00:00.000Z</published>
-    <updated>2019-12-07T09:38:15.950Z</updated>
+    <updated>2019-12-07T16:44:39.279Z</updated>
     
-    <content type="html"><![CDATA[<p>最近都在摸鱼，但即便如此也没有多少时间做自己想做的事。明年的比赛规程出来了，恐怕要变得更忙了。</p><p>昨天终于买到了等待很久的大表哥2，西部世界真是让人着迷。</p><p>准备找点时间写点技术相关的文章，不然这个博客就要变成日记博客了。</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span></pre></td></tr><tr><td class="gutter"><pre><span class="line">2</span></pre></td><td class="code"><pre><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span></pre></td></tr><tr><td class="gutter"><pre><span class="line">3</span></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span></pre></td></tr><tr><td class="gutter"><pre><span class="line">4</span></pre></td><td class="code"><pre><span class="line"><span class="function"></span>&#123;</span></pre></td></tr><tr><td class="gutter"><pre><span class="line">5</span></pre></td><td class="code"><pre><span class="line"><span class="built_in">cout</span>&lt;&lt;<span class="string">"Hello,World!"</span></span></pre></td></tr><tr><td class="gutter"><pre><span class="line">6</span></pre></td><td class="code"><pre><span class="line">&#125;</span></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>最近都在摸鱼，但即便如此也没有多少时间做自己想做的事。明年的比赛规程出来了，恐怕要变得更忙了。</p><p>昨天终于玩到了期待很久的大表哥2，西部世界真是让人着迷。</p><p>准备找点时间写点技术相关的文章，不然这个博客就要变成日记博客了。</p><p><del>(虽然菜的一批)</del></p><hr><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line"><span class="built_in">cout</span>&lt;&lt;<span class="string">"Hello,World!"</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;最近都在摸鱼，但即便如此也没有多少时间做自己想做的事。明年的比赛规程出来了，恐怕要变得更忙了。&lt;/p&gt;
-&lt;p&gt;昨天终于买到了等待很久的大表哥2，西部世界真是让人着迷。&lt;/p&gt;
+&lt;p&gt;昨天终于玩到了期待很久的大表哥2，西部世界真是让人着迷。&lt;/p&gt;
 &lt;p&gt;准备找点时间写点技术相关的文章，不然这个博客就要变成日记博客了。&lt;/p&gt;
-&lt;figure c
+&lt;p&gt;&lt;del&gt;(
       
     
     </summary>
